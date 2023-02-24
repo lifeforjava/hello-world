@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+  <p> let check whether chmages are reflected or not</p>
    <h1> Thankyou, Happy Learning Ankul- </h1>
-   <h1> adding the text to vi is quite hard</h1>
+   
   
 </form>
